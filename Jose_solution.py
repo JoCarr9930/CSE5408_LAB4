@@ -20,7 +20,7 @@ def toMilitaryTime(string):
 
 
 # We can add seconds if needed, the code has been optimized for it
-print(toMilitaryTime("12:00AM"))
+print(toMilitaryTime("12:00:00AM"))
 print(toMilitaryTime("12:00PM"))
 print(toMilitaryTime("09:30AM"))
 print(toMilitaryTime("09:30PM"))
